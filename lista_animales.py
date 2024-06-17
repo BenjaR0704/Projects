@@ -1,7 +1,6 @@
 # SECCION 001 D
 # V 1.9
 # fecha: 7/6
-# hagan los ejercicios
 
 from os import system
 
